@@ -41,18 +41,26 @@ Weeks 1-2: Research and Design
 Study the existing Mankala GUI and familiarize myself with its structure and components.
 Set up a local development environment for the Mankala project.
 Explore KDE’s Human Interface Guidelines (HIG) to ensure the GUI aligns with KDE's standards.
+
+
 Weeks 3-4: Basic Layout Implementation
 Implement the initial layout in QML.
 Ensure the basic design is functional and matches the mockups.
 Gather feedback from mentors and iterate.
+
+
 Weeks 5-6: Visual Enhancements
 Add animations for moving tiles and interactive elements.
 Refine the board design and visuals.
 Begin testing for responsiveness across platforms.
+
+
 Weeks 7-8: Advanced Features and Finalization
 Add visual feedback for user interactions (hover effects, clicks, etc.).
 Optimize performance for mobile devices.
 Conduct thorough testing and fix any bugs.
+
+
 Weeks 9-10: Final Testing and Documentation
 Perform comprehensive testing on Linux and other platforms.
 Write detailed documentation on the design and implementation process.
@@ -76,7 +84,9 @@ Secondary Mentor: Benson Muite (benson_muite at emailplus dot org)
 Community Contact: https://matrix.to/#/#mancala:kde.org
 
 Why Me?
-I am passionate about contributing to KDE and learning through real-world projects. My experience with KDE (education/gcompris!219) and foundational knowledge of QML and C++ make me a suitable candidate for this project. I am eager to improve my skills and create a polished GUI for Mankala that reflects the quality and usability of KDE’s applications.
+I am passionate about contributing to KDE and learning through real-world projects. 
+My experience with KDE (education/gcompris!219) and foundational knowledge of QML and C++ make me a suitable candidate for this project.
+I am eager to improve my skills and create a polished GUI for Mankala that reflects the quality and usability of KDE’s applications.
 
 Personal Details
 Name: Ashutosh Singh
