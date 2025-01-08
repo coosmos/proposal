@@ -1,107 +1,115 @@
-Proposal for mancala: Improve the mancala GUI 
+# Mankala GUI Enhancement Proposal
 
-Project Abstract 
-I propose to enhance the existing GUI of mancala game ,mancala has been recently developed ,and hence
-current GUI is simple .My objective is to enhance the visuals and interactive experiance of the mankala
-game by implementing and intuitive,user-friendly ,and pleasing GUI using kirigami framework.
-Through this project I aim to learn and apply advanced qml concepts and improve my design skills to create 
-a beautiful ,functional GUI that also aligns with KDE's standards.
+## Project Abstract
+I propose to enhance the existing GUI of the Mankala game. As Mankala has been recently developed, its current GUI is simple. My objective is to improve the visuals and interactive experience of the game by creating an intuitive, user-friendly, and aesthetically pleasing GUI using the Kirigami framework. This project focuses on enhancing the Mankala game’s overall usability and design, ensuring it aligns with KDE’s standards while providing an engaging user experience.
 
-Project proposal
- objectives:
-  Familiarization with qt:Gain a comprehensive understanding of the Qt framework. 
-          Explore existing Qt documentation to grasp its structure and functionalities.
+## Proposal
 
-Enhanced Visual Appeal: Redesign the game board, tiles, and animations to make them more engaging and visually attractive.
+### Objectives:
+- **Familiarization with Qt:**  
+  Gain a comprehensive understanding of the Qt framework. Explore existing Qt documentation to grasp its structure and functionalities.
 
-Improved Usability: Ensure the game’s interface is intuitive and responsive, with smooth transitions and user interactions.
+- **Enhanced Visual Appeal:**  
+  Redesign the game board, tiles, and animations to make them more engaging and visually attractive.
 
-Cross-Platform Compatibility: Utilize Kirigami to ensure the GUI works seamlessly on both desktop and mobile devices.
+- **Improved Usability:**  
+  Ensure the game’s interface is intuitive and responsive, with smooth transitions and user interactions.
 
-Testing and Debugging:Conduct thorough testing of the converted documentation for accuracy and completeness. Address any issues or bugs that arise during the conversion process.
+- **Cross-Platform Compatibility:**  
+  Utilize Kirigami to ensure the GUI works seamlessly on both Windows and Linux.
 
-Deliverables
+- **Testing and Debugging:**  
+  Conduct thorough testing of the converted documentation for accuracy and completeness. Address any issues or bugs that arise during the conversion process.
 
-1. Phase 1: Research and Setup
+### Deliverables
+
+**1. Phase 1: Research and Setup**
    - Study the existing Mankala GUI and familiarize myself with its structure and components.
-   -Learning and understanding kirigami framework
-   - update myself with KDE's human interface guidlines
+   - Learn and understand the Kirigami framework.
+   - Update myself with KDE's Human Interface Guidelines.
    - Set up a local development environment for the Mankala project.
 
-2. Phase 2: GUI Prototyping
-   - Design wireframes/mockups for the improved interface.
+**2. Phase 2: GUI Prototyping**
+   - Finalizing the wireframes/mockup.
    - Collaborate with mentors to finalize the design.
 
-3. Phase 3: Development
+**3. Phase 3: Development**
    - Implement the new GUI in QML, focusing on:
      - Improved board layout and visuals.
      - Tile animations (e.g., smooth movement of stones).
      - Responsive design for different screen sizes.
    - Add visual feedback for user interactions (e.g., hover effects, clicks).
 
-4. Phase 4: Testing and Documentation
-   - Test the GUI on various platforms (Linux, Windows, mobile devices) for bugs and performance issues.
+**4. Phase 4: Testing and Documentation**
+   - Test the GUI on various platforms (Linux, Windows) for bugs and performance issues.
    - Document the design decisions, implementation details, and lessons learned.
 
+### Skills Required:
+- Good knowledge of C++.
+- Knowledge of the Kirigami framework.
+- Knowledge of backend and frontend integration.
+- Basics of version control using Git.
 
-Skills Required:
-good  knowledge of cpp
- good understanding of qml concepts.
-familiarity with Qt framework.
-understanding of kirigami
- Basics of version control using git.
+## Timeline
 
-Timeline
- week 1-2: Research and Design
-1.set up the mankala project locally 
-2.study Kde's hig and research on existning games design and understand qml integeration with  backend logic
-  from existing games .
-3.Explore Kirigami concepts for cross-platform and responsive designs.
-4.Design and iterate on mockups for the gui
+### Week 1-2: Research and Design
+   1. Set up the Mankala project locally.
+   2. Study KDE's HIG and research existing game designs to understand QML integration with backend logic from existing games.
+   3. Explore Kirigami concepts for cross-platform and responsive designs.
+   4. Design and iterate on mockups for the GUI.
+   5. Implement a basic working GUI layout using QML and Kirigami components by the end of Week 2.
+   6. Ensure the GUI design is functional and aligns with the mockups.
+   7. Gather feedback from mentors to refine the design.
 
+### Week 3-4: Implementation and Feedback
+   1. Finalize wireframes and iterate on feedback from mentors.
+   2. Implement the basic GUI layout with Kirigami and QML components (now fully functional).
+   3. Begin integrating it with the backend (Nidish will now focus on multiplayer from Week 3).
+   4. Ensure the design is functional and refined, matching the mockups.
+   5. Begin testing for responsiveness across platforms.
 
-week 3-4:
-1. Design wireframes and get feedback from the mentors.
-2.Implement the design and build a basic layout using qml and kirigami components
-3.Ensure the desgin is functional and matches the mockups
-4.gather feedback and reiterate.
+### Week 5-6: Advanced Features and Visual Enhancements
+   1. Add animations for moving tiles and interactive elements.
+   2. Refine the board design and visuals.
+   3. Test for responsiveness across platforms.
 
-week 5-6:
-1.Advance into adding animations for moving tiles and interactive elements.
-2.Refine the board design and Visuals
-3.Begin testing for responsiveness across platforms.
+### Week 7-8: Finalization and Advanced Features
+   1. Add visual feedback for user interactions (hover effects, clicks, etc.).
+   2. Conduct thorough testing and resolve any inconsistencies or bugs.
+   3. Gather feedback from mentors to finalize the design and features.
 
-week 7-8 Advanced features and Finalization
-1.Add visual feedbacks for user interactions.
-2.conduct through testing and fix any inconsistencies and bugs.
-3.gather feedback from mentors,work on increasing the scope of the project proposal.
+### Week 9-10: Testing, Documentation, and Final Review
+   1. Perform comprehensive testing on the GUI across platforms.
+   2. Write detailed documentation covering the design and implementation process.
+   3. Submit the final project to mentors for review and feedback.
 
-week 9-10
-1.write detailed documentation on the design and implementation process
-2.Submit the final project to mentors for review
+## Foreseen Challenges
 
-Forseen Challenge:-
-1.Backend intergeration would be a challenging for me .
-2.cross-platform compatibility might be a challenge,I belive extensively testing it on different platforms would help.
-3.Debugging and Testing ,performing extensive testing on different platforms and fixing bugs.
+1. **Backend Integration**  
+   Backend integration may be a challenging part, but I believe focusing on breaking down the backend logic into smaller, manageable modules and gradually integrating them with the GUI will reduce the complexity.
 
+2. **Cross-Platform Compatibility**  
+   Cross-platform compatibility might be a challenge. I believe extensively testing it on different platforms will help.
 
-References/relevant Background info
-I am looking for any opportunity to enhance and upgrade my skills by working on real life projects.I am a cs student and I have been actively participating 
-and interacting with kde events. I came across kde last few months back and since then I have been deeply involved into learning and contributing .I have been working on  a similar project 
-Gcompris (education/gcompris!219) .I have learned significantly from gcomp codebase ,and enhaced my knowledge over Qml.
+3. **Debugging and Testing**  
+   Performing extensive testing on different platforms and fixing bugs will help.
 
+## References / Relevant Background Info
+I am looking for an opportunity to enhance and upgrade my skills by working on real-life projects. I am a CS student and have been actively participating and interacting with KDE events. I came across KDE a few months ago, and since then I have been deeply involved in learning and contributing. I have been working on a similar project, [Gcompris (education/gcompris!219)](https://invent.kde.org/education/gcompris/-/merge_requests/219). I have learned significantly from the GCompris codebase and enhanced my knowledge of QML.
 
-Mentorship
-Primary Mentor: João Gouveia (joao.talone.gouveia@gmail.com)
-Secondary Mentor: Benson Muite (benson_muite at emailplus dot org)
-Community Contact: https://matrix.to/#/#mancala:kde.org
+## How to Reach You
 
-Personal Details
-Name: Ashutosh Singh
-Email: ashutoshas2610@gmail.com
-Matrix ID: @ashutosh2610:matrix.org
-LinkedIn: https://www.linkedin.com/in/ashutosh-singh-b2b2b3167/
+### Mentorship
+- **Primary Mentor:** João Gouveia (joao.talone.gouveia@gmail.com)
+- **Secondary Mentor:** Benson Muite (benson_muite at emailplus dot org)
+- **Community Contact:** [Matrix Channel](https://matrix.to/#/#mancala:kde.org)
 
- I am excited about the opportunity to contribute to KDE through this project!
+### Personal Details
+- **Name:** Ashutosh Singh
+- **Email:** ashutoshas2610@gmail.com
+- **Matrix ID:** @ashutosh2610:matrix.org
+- **LinkedIn:** [Ashutosh Singh LinkedIn](https://www.linkedin.com/in/ashutosh-singh-b2b2b3167/)
 
+<!-- Do not remove this line and the two below, else your proposal will become public and the team won't be notified of it -->
+/confidential  
+/cc @teams/mentor-programs
