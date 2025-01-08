@@ -1,1 +1,96 @@
-proposal for mancala: Improve the mancala GUI and make it a cross platform application
+Proposal for mancala: Improve the mancala GUI 
+
+Project Abstract 
+I propose to enhance the existing GUI of mancala game ,mancala has been recently developed ,and hence
+current GUI is simple .My objective is to enhance the visuals and interactive experiance of the mankala
+game by implementing and intuitive,user-friendly ,and pleasing GUI using kirigami framework.
+Through this project I aim to learn and apply advanced qml concepts and improve my design skills to create 
+a beautiful ,functional GUI that also aligns with KDE's standards.
+
+Project proposal
+ objectives:
+  Familiarization with QtHelp:Gain a comprehensive understanding of the Qt framework. 
+          Explore existing Qt documentation to grasp its structure and functionalities.
+
+Enhanced Visual Appeal: Redesign the game board, tiles, and animations to make them more engaging and visually attractive.
+
+Improved Usability: Ensure the game’s interface is intuitive and responsive, with smooth transitions and user interactions.
+
+Cross-Platform Compatibility: Utilize Kirigami to ensure the GUI works seamlessly on both desktop and mobile devices.
+
+Testing and Debugging:Conduct thorough testing of the converted documentation for accuracy and completeness. Address any issues or bugs that arise during the conversion process.
+
+Deliverables
+
+1. Phase 1: Research and Setup
+   - Study the existing Mankala GUI and familiarize myself with its structure and components.
+   -Learning and understanding kirigami framework
+   - update myself with KDE's human interface guidlines
+   - Set up a local development environment for the Mankala project.
+
+2. Phase 2: GUI Prototyping
+   - Design wireframes/mockups for the improved interface.
+   - Collaborate with mentors to finalize the design.
+
+3. Phase 3: Development
+   - Implement the new GUI in QML, focusing on:
+     - Improved board layout and visuals.
+     - Tile animations (e.g., smooth movement of stones).
+     - Responsive design for different screen sizes.
+   - Add visual feedback for user interactions (e.g., hover effects, clicks).
+
+4. Phase 4: Testing and Documentation
+   - Test the GUI on various platforms (Linux, Windows, mobile devices) for bugs and performance issues.
+   - Document the design decisions, implementation details, and lessons learned.
+
+
+Skills Required:
+good  knowledge of cpp
+ good understanding of qml concepts.
+familiarity with Qt framework.
+understanding of kirigami
+ Basics of version control using git.
+
+Timeline
+ week 1-2: Research and Design
+1.set up the mankala project locally 
+2.study Kde's hig and research on existning games design and understand qml integeration with  backend logic
+  from existing games .
+3.Explore Kirigami concepts for cross-platform and responsive designs.
+4.Design and iterate on mockups for the gui
+
+
+week 3-4:
+1. Design wireframes and get feedback from the mentors.
+2.Implement the design and build a basic layout using qml and kirigami components
+3.Ensure the desgin is functional and matches the mockups
+4.gather feedback and reiterate.
+
+week 5-6:
+1.Advance into adding animations for moving tiles and interactive elements.
+2.Refine the board design and Visuals
+3.Begin testing for responsiveness across platforms.
+
+week 7-8 Advanced features and Finalization
+1.Add visual feedbacks for user interactions.
+2.conduct through testing and fix any inconsistencies and bugs.
+3.gather feedback from mentors,work on increasing the scope of the project proposal.
+
+week 9-10
+1.write detailed documentation on the design and implementation process
+2.Submit the final project to mentors for review
+
+Forseen Challenge:-
+1.Backend intergeration would be a challenging for me .
+2.cross-platform compatibility might be a challenge,I belive extensively testing it on different platforms would help.
+3.Debugging and Testing ,performing extensive testing on different platforms and fixing bugs.
+
+
+References/relevant Background info
+I am looking for any opportunity to enhance and upgrade my skills by working on real life projects. set.I am a cs student and I have been actively participating 
+and interacting with kde events. I came across kde last few months back and since then I have been actively learning .I have been trying to contribute a similar project 
+Gcompris (education/gcompris!219) .I have learned significantly from gcomp codebase ,and enhaced my knowledge over Qml.
+
+how to reach me
+------
+
