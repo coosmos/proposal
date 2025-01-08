@@ -1,0 +1,115 @@
+**Proposal for Season of KDE: Improving the GUI of Mankala**
+
+---
+
+**Personal Details**  
+- **Name**: Ashutosh Singh  
+- **Email**: ashutoshas2610@gmail.com  
+- **Matrix ID**: @ashutosh2610:matrix.org  
+- **LinkedIn**: [Optional, provide if needed]
+
+---
+
+### **Project Title**: Improving the GUI of Mankala
+
+### **Abstract**
+The Mankala Engine has been recently developed, but its current graphical user interface (GUI) is simple and lacks the polish expected of a modern cross-platform game. This project aims to enhance the visual and interactive experience of the Mankala game by implementing an intuitive, user-friendly, and aesthetically pleasing GUI using QML. Through this project, I aim to learn and apply advanced QML concepts and improve my design skills to create a beautiful, functional GUI that aligns with KDE’s standards.
+
+---
+
+### **Project Goals**
+
+1. **Enhanced Visual Appeal**: Redesign the game board, tiles, and animations to make them more engaging and visually attractive.
+2. **Improved Usability**: Ensure the game’s interface is intuitive and responsive, with smooth transitions and user interactions.
+3. **Cross-Platform Compatibility**: Develop a GUI that works seamlessly on both desktop and mobile devices.
+4. **Incorporate Feedback**: Collaborate with mentors and the KDE community to refine the design and functionality based on feedback.
+
+---
+
+### **Deliverables**
+
+1. **Phase 1: Research and Setup**
+   - Study the existing Mankala GUI and familiarize myself with its structure and components.
+   - Understand KDE’s Human Interface Guidelines (HIG) for consistency.
+   - Set up a local development environment for the Mankala project.
+
+2. **Phase 2: GUI Prototyping**
+   - Design wireframes/mockups for the improved interface.
+   - Collaborate with mentors to finalize the design.
+
+3. **Phase 3: Development**
+   - Implement the new GUI in QML, focusing on:
+     - Improved board layout and visuals.
+     - Tile animations (e.g., smooth movement of stones).
+     - Responsive design for different screen sizes.
+   - Add visual feedback for user interactions (e.g., hover effects, clicks).
+
+4. **Phase 4: Testing and Documentation**
+   - Test the GUI on various platforms (Linux, Windows, mobile devices) for bugs and performance issues.
+   - Document the design decisions, implementation details, and lessons learned.
+
+---
+
+### **Timeline**
+
+**Weeks 1-2: Research and Design**  
+- Set up the Mankala project locally.
+- Study KDE’s HIG and evaluate other KDE games for inspiration.
+- Design and iterate on mockups for the GUI.
+
+**Weeks 3-4: Basic Layout Implementation**  
+- Implement the initial layout in QML.
+- Ensure the basic design is functional and matches the mockups.
+- Gather feedback from mentors and iterate.
+
+**Weeks 5-6: Visual Enhancements**  
+- Add animations for moving tiles and interactive elements.
+- Refine the board design and visuals.
+- Begin testing for responsiveness across platforms.
+
+**Weeks 7-8: Advanced Features and Finalization**  
+- Add visual feedback for user interactions (hover effects, clicks, etc.).
+- Optimize performance for mobile devices.
+- Conduct thorough testing and fix any bugs.
+
+**Weeks 9-10: Final Testing and Documentation**  
+- Perform comprehensive testing on Linux and other platforms.
+- Write detailed documentation on the design and implementation process.
+- Submit the final project to mentors for review.
+
+---
+
+### **Knowledge Prerequisite**
+- **Languages**: Proficient in C++ and basic QML.
+- **Tools**: Familiarity with Qt Creator for QML development.
+- **Experience**: Created a merge request (education/gcompris!219) for GCompris, demonstrating my ability to contribute to KDE projects.
+
+---
+
+### **Learning Goals**
+- Gain proficiency in QML by developing a complex GUI.
+- Learn and adhere to KDE’s HIG for application design.
+- Collaborate effectively with mentors and the KDE community.
+
+---
+
+### **Mentorship**
+- **Primary Mentor**: João Gouveia (joao.talone.gouveia@gmail.com)
+- **Secondary Mentor**: Benson Muite (benson_muite at emailplus dot org)
+- **Community Contact**: https://matrix.to/#/#mancala:kde.org
+
+---
+
+### **Why Me?**
+I am passionate about contributing to KDE and learning through real-world projects. My experience with KDE (education/gcompris!219) and foundational knowledge of QML and C++ make me a suitable candidate for this project. I am eager to improve my skills and create a polished GUI for Mankala that reflects the quality and usability of KDE’s applications.
+
+---
+
+**References**
+- KDE Human Interface Guidelines: https://hig.kde.org/
+- Mankala Engine Repository: [Link to repo]
+
+---
+
+Thank you for considering my proposal. I am excited about the opportunity to contribute to KDE through this project!
+
